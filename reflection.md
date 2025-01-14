@@ -1,0 +1,1 @@
+This process was very informative about using html. I learned about the large limitations when not allowed to use CSS and js. By far tough the most challenging part of this project was uploading it to the public html through linux.
